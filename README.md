@@ -1,1 +1,1 @@
-https://simplenote-app.com
+https://simplenote-app.netlify.app
